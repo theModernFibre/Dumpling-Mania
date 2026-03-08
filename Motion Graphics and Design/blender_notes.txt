@@ -1,0 +1,2 @@
+Sculpting in Blender is a high-level digital modeling technique that allows users to manipulate 3D mesh
+geometry by pushing, pulling, smoothing and grabbing vertices usign brushes.
