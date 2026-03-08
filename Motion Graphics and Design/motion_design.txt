@@ -1,0 +1,14 @@
+Using Figma, Blender and Spline to plan and create 3D animations to enhance user experience.
+
+Backgroud:
+Motion design is the broader, conceptual process of planning, directing and animating visual elements to tell a story or enhance
+user experience, whereas motion graphics is the specific, tactical and often an inforamtional result.
+
+Definition and Scope:
+Motion Deisgn is the overall discipline and process. Motion graphics is a subset  on moving graphic elements.
+
+Purpose: 
+Motion deisgn focuses on storytelling and brand messaage. Motion graphics focuses on storytelling adn brand 
+message. Motion graphics focuses on communicating information such as in exapliner videos or titles.
+
+Visual style: Motion design may include 3D and complex scenes. Motion graphics often uses 2D shapes and typography.
