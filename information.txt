@@ -1,0 +1,9 @@
+Software Product: A digital marketing software that is able to market products from an eCommerce company. 
+
+Functionality:
+
+-	Boost sales and engagement
+-	Develop loyalty to the brand
+-	Interactive and Engagement platform for the target consumers.
+-	Attract target consumers
+
