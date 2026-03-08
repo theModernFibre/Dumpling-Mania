@@ -7,3 +7,17 @@ Functionality:
 -	Interactive and Engagement platform for the target consumers.
 -	Attract target consumers
 
+MVP and Brand
+
+Brand: Dumpling Mania
+Objective: Boost Sales
+
+Needs: Digital Marketing Software that sells products to target consumers.
+
+Digital Marketing Software
+
+User Experience and User Interface: all the products are found in the user interface. The digital marketing software will display these products in such way that it would attract it’s target consumers.
+
+The user interface and experience needs to directly connect to the brand identity, business requirements and other aspects relating to the brand, their products and their services.
+
+Tools to be used to develop the brand logo and design library are Figma, Blender and HTML5.
