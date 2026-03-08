@@ -1,1 +1,13 @@
+Dumpling Mania
 
+Target Audience: Thoose that seek innovative south east asian food
+Purpose: market, sell and deliver food products
+Personality: Focusing on innovative food selling and marketing and arer able to deliver quickly
+Mission: Discrete expression of authentic food originating from a small region in the globe.
+Consistent Long-Term Impact: 
+
+
+Visual Assets: The focus of this project
+Logo and Branding and the user interface
+
+User Interface has to be built using tools such as HTML5 and Javascript. This invovles front-end engineeirng and architecture
