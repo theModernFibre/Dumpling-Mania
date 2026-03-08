@@ -1,0 +1,3 @@
+Spline is used to build 3D animations.
+
+Similar to blender, 3D models can be sculpted in Spline and can be given movement.
